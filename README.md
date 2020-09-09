@@ -1,6 +1,9 @@
 ### Hello, I'm Mert! :blowfish:	
 
 I'm a full stack developer living in Berlin. I love building things and learning new technologies. I'm currently working with MERN (MongoDB, Express, React, Node) stack and also learning TypeScript, GraphQL and Sass.
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=frankie303.frankie303)
+
 <!--
 **frankie303/frankie303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
