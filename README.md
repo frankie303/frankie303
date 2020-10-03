@@ -1,6 +1,6 @@
 ### Hello, I'm Mert! :blowfish:	
 
-I'm a full stack developer living in Berlin. I love building things and learning new technologies. I'm currently working with MERN (MongoDB, Express, React, Node) stack and also learning TypeScript, GraphQL and Sass.
+I'm a full stack developer living in Berlin. I love building things and learning new technologies. I'm currently working with MERN (MongoDB, Express, React, Node).
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=frankie303.frankie303)
 
