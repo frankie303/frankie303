@@ -1,6 +1,6 @@
 ### Hello, I'm Mert! :blowfish:	
 
-I'm a frontend developer living in Berlin. I love building things and learning new technologies.
+I'm a front-end developer living in Berlin. I love building things and learning new technologies.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=frankie303.frankie303)
 
