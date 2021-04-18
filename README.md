@@ -2,7 +2,7 @@
 
 I'm a frontend engineer living in Berlin. I love building things and learning new technologies.
 
-<img src="https://github.com/frankie303/frankie303/blob/master/hello1.gif" alt="hello hello" title="welcome" width="900"/>
+<img src="https://github.com/frankie303/frankie303/blob/master/hello2.gif" alt="hello hello" title="welcome" width="900"/>
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=frankie303.frankie303)
