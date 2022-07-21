@@ -1,23 +1,11 @@
-### Hello, I'm Mert! :blowfish:	
-
+### Hello, I'm Mert!
 I'm a frontend engineer living in Berlin. I love building things and learning new technologies.
 
-<img src="https://github.com/frankie303/frankie303/blob/master/hello3.gif" alt="hello hello" title="welcome" width="900"/>
+
+
+<img src="https://user-images.githubusercontent.com/45823795/180217259-16fb594e-3aa8-4aae-b79b-d6b0a00b096e.gif" alt="welcome-image" title="welcome"/>
+
+
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=frankie303.frankie303)
-
-<!--
-**frankie303/frankie303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
